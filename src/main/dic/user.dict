@@ -1,4 +1,17 @@
-小清新 3
-百搭 3
-显瘦 3
-隨身碟 100
+抓手
+赋能
+闭环
+tidb 100 nz
+tikv 100 nz
+pd 100 nz
+ticdc 100 nz
+go-tpc 50 nz
+tpcc 100 nz
+kafka 50 nz
+pulsar 50 nz
+pingcap 20 nz
+mysql
+go-ycsb
+tiflash 50
+dumpling 20
+
